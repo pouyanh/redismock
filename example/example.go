@@ -3,7 +3,7 @@ package example
 import (
 	"context"
 	"errors"
-	"github.com/go-redis/redismock/v8"
+	"github.com/pouyanh/redismock/v8"
 	"time"
 )
 
